@@ -21,21 +21,7 @@
             "Modules\\TgBot\\": ""
         }
     },
-    "repositories": [
-        {
-            "type": "package",
-            "package": {
-                "name": "irazasyed/telegram-bot-sdk",
-                "version": "3.5.0",
-                "source": {
-                    "url": "https://github.com/NikoVonLas/telegram-bot-sdk",
-                    "type": "git",
-                    "reference": "develop"
-                }
-            }
-        }
-    ],
     "require": {
-        "irazasyed/telegram-bot-sdk": "^3.5"
+        "na-ekb/telegram-bot-sdk": "^3.5"
     }
 }
